@@ -15,6 +15,13 @@
   </properties>
 
   <dependencies>
+
+    <dependency>
+      <groupId>net.sf.buildbox</groupId>
+      <artifactId>changes</artifactId>
+      <version>2.0.0</version>
+    </dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
